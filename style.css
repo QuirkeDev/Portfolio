@@ -42,6 +42,11 @@ body {
   /* Add the styles here */
 }
 
+.ezra {
+  color: green;
+  text-align: right;
+}
+
 .profile_name .contact_info {
   font-size: 25px;
   font-style: italic;
@@ -104,11 +109,7 @@ h2 {
   color: #57BC90;
 }
 
-#about-me p {
-  font-size: 25px;
-  color: rgb(128, 128, 128);
-  margin-top: -1cm;
-}
+
 
 .profile_image {
   width: 550px;
