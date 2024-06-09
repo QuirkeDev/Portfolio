@@ -7,41 +7,45 @@ div.heading{
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
 }
-/* div.container{
-  /* padding-left: 40%;
-  padding-right: 40%; */
-  /* background-color: blue; 
-} */
-.profile {
+div.container{
+  position: relative; 
+  /* background-color: blue;   */
+}
+#profile {
   width: 300px;
   height: 300px;
   border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  /* background-color: black; */
 }
 div.content{
+  margin-top: 5%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  /* background-color: green; */
 }
 #education{
-  display: inline;
-  float: none;
   padding: 5%;
+  padding-bottom: 2%;
+  /* background-color: pink; */
 }
 #skills{
-  display: inline;
-  float: none;
+  
   padding: 5%;
+  padding-bottom: 2%;
+  /* background-color: gold; */
 }
 #github{
-  display: inline;
-  float: none;
+  
   padding: 5%;
+  padding-bottom: 2%;
+  /* background-color: blueviolet; */
 }
 #mail{
-  display: inline;
-  float: none;
   padding: 5%;
+  padding-bottom: 2%;
+  /* background-color: #eeeee4; */
 }
