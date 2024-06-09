@@ -2,22 +2,16 @@ body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #eeeee4;
 }
-
 /* Navigation Bar */
-
-
 div.heading{
- 
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
 }
-
 /* div.container{
   /* padding-left: 40%;
   padding-right: 40%; */
   /* background-color: blue; 
 } */
-
 .profile {
   width: 300px;
   height: 300px;
@@ -26,25 +20,21 @@ div.heading{
   margin-left: auto;
   margin-right: auto;
 }
-
 div.content{
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
-
 #education{
   display: inline;
   float: none;
   padding: 5%;
 }
-
 #skills{
   display: inline;
   float: none;
   padding: 5%;
 }
-
 #github{
   display: inline;
   float: none;
